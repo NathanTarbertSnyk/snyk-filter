@@ -15,7 +15,7 @@ snyk-filter takes the JSON outputted from the [Snyk CLI](https://support.snyk.io
 First, clone the repo.
 Then run
 
-`npm install -g snyk-filter`
+`npm i -g snyk-filter`
 
 ### Note about `node-jq`
 
